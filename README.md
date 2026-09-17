@@ -35,10 +35,6 @@ The dashboard includes:
 - Time-based Sales Analysis
 - Interactive filters and slicers
 
-## 📸 Dashboard Preview
-
-![Sales Records Dashboard](sales-records%20dashboard.png)
-
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
@@ -49,9 +45,12 @@ The dashboard includes:
 
 ## 📂 Project Files
 
-```text
 Sales-Records-Dashboard/
 │
 ├── Sales-RECORDS.pbix
 ├── sales-records dashboard.png
 └── README.md
+
+## 📸 Dashboard Preview
+
+![Sales Records Dashboard](Sales-Records-Dashboard.png)
