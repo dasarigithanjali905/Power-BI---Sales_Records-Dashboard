@@ -51,6 +51,8 @@ Sales-Records-Dashboard/
 ├── sales-records dashboard.png
 └── README.md
 
+
+
 ## 📸 Dashboard Preview
 
 ![Sales Records Dashboard](Sales-Records-Dashboard.png)
